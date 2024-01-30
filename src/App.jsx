@@ -54,8 +54,8 @@ const App = () => {
 
   return (
     <div>
-      <h1>Notefsdfsdfsdfs</h1>
-      <h2>hey</>
+      <h1>Notes</h1>
+      
       <Notification message={errorMessage} />
       <div>
         <button onClick={() => setShowAll(!showAll)}>
